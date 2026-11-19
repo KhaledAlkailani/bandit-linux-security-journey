@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="1600" height="500" fill="#131313"/>
+  <rect x="18" y="18" width="1564" height="464" rx="38" fill="none" stroke="#EFEFEF" stroke-width="1.2"/>
+
+  <text x="90" y="98" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="25" font-weight="700" fill="#FFC000">khaled@bandit~$ ./linux_security_journey</text>
+  <text x="90" y="178" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="54" font-weight="700" fill="#EFEFEF">OverTheWire Bandit</text>
+  <text x="90" y="228" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="25" fill="#B7B7B7">Linux security from fundamentals to system behavior</text>
+
+  <line x1="90" y1="278" x2="1510" y2="278" stroke="#5A5A5A" stroke-width="1"/>
+
+  <g font-family="'Cascadia Mono', Consolas, 'Courier New', monospace">
+    <text x="90" y="334" font-size="34" font-weight="700" fill="#FFC000">33</text>
+    <text x="155" y="334" font-size="20" fill="#EFEFEF">levels completed</text>
+
+    <text x="470" y="334" font-size="34" font-weight="700" fill="#FFC000">7</text>
+    <text x="515" y="334" font-size="20" fill="#EFEFEF">capability areas</text>
+
+    <text x="870" y="334" font-size="34" font-weight="700" fill="#FFC000">0</text>
+    <text x="915" y="334" font-size="20" fill="#EFEFEF">credentials published</text>
+  </g>
+
+  <text x="90" y="408" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="19" fill="#EFEFEF">Linux · Networking · Privilege · Automation · Restricted Shells · Git</text>
+  <text x="90" y="446" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="17" fill="#666666">spoiler-safe portfolio · learning outcomes over answer strings</text>
+</svg>
