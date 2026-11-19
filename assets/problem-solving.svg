@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs><marker id="aw" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#EFEFEF"/></marker></defs>
+  <rect width="1600" height="500" fill="#131313"/>
+  <rect x="18" y="18" width="1564" height="464" rx="34" fill="none" stroke="#EFEFEF" stroke-width="1.2"/>
+  <text x="80" y="88" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="26" font-weight="700" fill="#FFC000">problem_solving_maturity</text>
+
+  <g font-family="'Cascadia Mono', Consolas, 'Courier New', monospace">
+    <text x="110" y="170" font-size="18" fill="#8C8C8C">early question</text>
+    <text x="110" y="212" font-size="28" font-weight="700" fill="#EFEFEF">“Where is the file?”</text>
+
+    <line x1="460" y1="205" x2="610" y2="205" stroke="#EFEFEF" stroke-width="1.2" marker-end="url(#aw)"/>
+
+    <text x="660" y="170" font-size="18" fill="#8C8C8C">middle question</text>
+    <text x="660" y="212" font-size="28" font-weight="700" fill="#EFEFEF">“Who can access it?”</text>
+
+    <line x1="1040" y1="205" x2="1190" y2="205" stroke="#EFEFEF" stroke-width="1.2" marker-end="url(#aw)"/>
+
+    <text x="1240" y="170" font-size="18" fill="#FFC000">later question</text>
+    <text x="1240" y="212" font-size="26" font-weight="700" fill="#EFEFEF">“Why is it reachable?”</text>
+  </g>
+
+  <line x1="110" y1="285" x2="1490" y2="285" stroke="#5A5A5A"/>
+  <text x="110" y="340" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="19" fill="#EFEFEF">File → identity → process → automation → historical state</text>
+  <text x="110" y="388" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="18" fill="#8C8C8C">The command is only one step. The security value comes from understanding the behavior around it.</text>
+</svg>
